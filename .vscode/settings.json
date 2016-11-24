@@ -1,0 +1,23 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+  //-------- Editor configuration --------
+  
+  // Controls visibility of the glyph margin
+	"editor.glyphMargin": true,
+  
+  // Controls the rendering size of tabs in characters. Accepted values: "auto", 2, 4, 6, etc. If set to "auto", the value will be guessed when a file is opened.
+	"editor.tabSize": 2,
+  
+  // Controls after how many characters the editor will wrap to the next line. Setting this to 0 turns on viewport width wrapping
+	"editor.wrappingColumn": 0,
+  
+  //-------- Files configuration --------
+
+	// Configure glob patterns for excluding files and folders.
+	"files.exclude": {
+		"**/.git": true,
+		"**/.DS_Store": true
+	},
+
+	"jslint.enable": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "do-async",
+  "version": "0.0.0",
+  "description": "dt implementation of async await concept",
+  "main": "do-async.js",
+  "keywords": [
+    "async",
+    "await",
+    "generators"
+  ],
+  "author": "Diego Torres",
+  "license": "MIT"
+}
