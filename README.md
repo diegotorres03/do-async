@@ -5,6 +5,8 @@ This is not a library or any particular repository, is more a tougth about one p
 
 Keep in mind this will work just for Promises.
 
+The good part is if any promise is rejected this will be catched in th try catch block as any sinchronous error.
+
 ## Code Example
 ```js
 const doAsync = require('./do-async')
